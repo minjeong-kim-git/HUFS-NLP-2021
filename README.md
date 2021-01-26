@@ -5,7 +5,8 @@
 
 ## Contents
  - OT: Pandas, Matplotlib 튜토리얼
- - Day1: Basic of NLP, EVN
+ - Day1: Basic of NLP
+ - Day2: Encoding, Tokenizer
 
 ## Assignment
  - Day1: EVN 과제 파일 문장단위 분류로 변형
