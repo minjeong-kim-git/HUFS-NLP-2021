@@ -5,7 +5,7 @@
 
 ## Time and Place
  - Time: 2021.01.25 ~ 02.09(12일)
-         월~금 10:00~13:00
+         월~금, 10:00 ~ 13:00
    - Orientation: 01.24 10:00~11:00
    
  - Place: Online(Webex)
