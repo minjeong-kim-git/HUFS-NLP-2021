@@ -7,6 +7,7 @@
  - OT: Pandas, Matplotlib 튜토리얼
  - Day1: Basic of NLP
  - Day2: Encoding, Tokenizer
+ - Day3: Word2Vec
 
 ## Assignment
  - Day1: EVN 과제 파일 문장단위 분류로 변형
