@@ -10,3 +10,4 @@
 
 ## Assignment
  - Day1: EVN 과제 파일 문장단위 분류로 변형
+ - Day2: txt 파일 드라이브에 직접 만들고 sentencepe 학습시켜보기
