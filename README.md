@@ -26,6 +26,7 @@
  - Day12: Transformer
 
 ## Assignment
- - Day1: EVN 과제 파일 문장단위 분류로 변형
+ - Day1: 문장 단위 긍정, 부정, 중립 분류 프로젝트 모델링 해보기
  - Day2: txt 파일 드라이브에 직접 만들고 sentencepe 학습시켜보기
  - Day3: Word Embedding 파일 학습시켜보기(네이버 영화 텍스트)
+ - Day4: Day1의 프로젝트에 CNN, RNN 모델 추가해보기
